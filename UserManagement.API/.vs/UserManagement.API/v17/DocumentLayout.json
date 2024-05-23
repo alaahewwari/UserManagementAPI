@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|d:\\full stack\\backend\\asp.net\\api\\usermanagement.api\\usermanagement.api\\usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\services\\user_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\services\\user_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\authentication\\user\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\authentication\\user\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\services\\iusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\services\\iusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8F900E-7FD8-48F9-BEEA-3ABF4C70FCE8}|UserManagement.Data\\UserManagement.Data.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.data\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8F900E-7FD8-48F9-BEEA-3ABF4C70FCE8}|UserManagement.Data\\UserManagement.Data.csproj|solutionrelative:usermanagement.data\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\authentication\\user\\loginotprespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\authentication\\user\\loginotprespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8F900E-7FD8-48F9-BEEA-3ABF4C70FCE8}|UserManagement.Data\\UserManagement.Data.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8F900E-7FD8-48F9-BEEA-3ABF4C70FCE8}|UserManagement.Data\\UserManagement.Data.csproj|solutionrelative:usermanagement.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\authentication\\signup\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\authentication\\signup\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\authentication\\user\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\authentication\\user\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\authentication\\user\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\authentication\\user\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.service\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957B8E02-66D5-4A58-AA51-28A8FCB85966}|UserManagement.Service\\UserManagement.Service.csproj|solutionrelative:usermanagement.service\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.api\\usermanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\usermanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\usermanagement.api\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675DD647-6BF8-47F8-A2AF-294A052695A5}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\EmailConfiguration.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\EmailConfiguration.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\EmailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginOtpRespons.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\LoginOtpRespons.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\Authentication\\User\\LoginOtpRespons.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\LoginOtpRespons.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\Authentication\\User\\LoginOtpRespons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T02:41:04.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagement.API\\appsettings.json",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\appsettings.json",
+              "RelativeToolTip": "UserManagement.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T01:21:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Program.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\Program.cs",
+              "RelativeToolTip": "UserManagement.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UserManagement.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAcwMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserManagement.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\IUserManagement.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Services\\IUserManagement.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\IUserManagement.cs",
+              "RelativeToolTip": "UserManagement.Service\\Services\\IUserManagement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T22:14:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_Management.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\User_Management.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Services\\User_Management.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\User_Management.cs",
+              "RelativeToolTip": "UserManagement.Service\\Services\\User_Management.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Data\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "UserManagement.Data\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Data\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "UserManagement.Data\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:26:52.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\Authentication\\User\\CreateUserResponse.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\CreateUserResponse.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\Authentication\\User\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T21:46:16.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\SignUp\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\Authentication\\SignUp\\RegisterUser.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\SignUp\\RegisterUser.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\Authentication\\SignUp\\RegisterUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T21:45:11.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\Message.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Message.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:00:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\IEmailService.cs",
+              "RelativeToolTip": "UserManagement.Service\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:01:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "UserManagement.Service\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\JwtToken.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\Authentication\\User\\JwtToken.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\JwtToken.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\Authentication\\User\\JwtToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T02:41:03.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "UserManagement.Service\\Models\\Authentication\\User\\LoginResponse.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Service\\Models\\Authentication\\User\\LoginResponse.cs",
+              "RelativeToolTip": "UserManagement.Service\\Models\\Authentication\\User\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T02:41:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UserManagement.Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "UserManagement.Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:41:50.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserManagement.API",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\UserManagement.API.csproj",
+              "RelativeDocumentMoniker": "UserManagement.API\\UserManagement.API.csproj",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\UserManagement.API.csproj",
+              "RelativeToolTip": "UserManagement.API\\UserManagement.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-17T22:59:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserManagement.API.csproj",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\UserManagement.API.csproj",
+              "RelativeDocumentMoniker": "UserManagement.API\\UserManagement.API.csproj",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\UserManagement.API.csproj",
+              "RelativeToolTip": "UserManagement.API\\UserManagement.API.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-16T01:21:33.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Models\\Response.cs",
+              "ToolTip": "D:\\Full Stack\\BackEnd\\ASP.NET\\API\\UserManagement.API\\UserManagement.API\\UserManagement.API\\Models\\Response.cs",
+              "RelativeToolTip": "UserManagement.API\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:21:33.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
